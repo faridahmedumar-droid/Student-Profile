@@ -1,9 +1,9 @@
-# Student Profile: Cyber Security & Web Development Portfolio
+# Student-Profile
 
-**Student:** Farid Umar
+**Name:** Farid Umar
 **Student ID:** 2406548
 **Course:** BSc Computing (Cyber Security)
 
-## Project Description
+## Project: My Student Profile Page
 
-A personal profile site built for the GitHub practical. The repository is used to practise core GitHub workflows: commits, branching, pull requests, forking, cloning with GitHub Desktop, and continuous integration with GitHub Actions.
+This is a simple profile page I'm making for the GitHub practical. I'm using it to practise the main GitHub features we've covered, like commits, branches, pull requests, forks, GitHub Desktop and GitHub Actions.
